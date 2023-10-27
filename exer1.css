@@ -1,5 +1,9 @@
-body {
+body{
     background-color: aqua;
- font-size: 12px ;
 }
-
+p{
+    font-size: 58px;
+    color: blue;
+    font-weight: 100; 
+    font-style: oblique;
+}
